@@ -19,7 +19,7 @@ The lab was completed through the Do GRC learning platform.
 
 ## Certificate of Completion
 
-Certificate: [Beginner Audit & Risk Basics Certificate](beginner-audit-risk-basics-certificate.png)
+Certificate: [Beginner Audit & Risk Basics Certificate](./beginner-audit-%26-risk-basics-certificate.png)
 
 ## Platform
 
