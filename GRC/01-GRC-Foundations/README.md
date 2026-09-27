@@ -34,7 +34,7 @@ The lab was completed through the Do GRC learning platform.
 
 ### Certificate of Completion
 
-![GRC Foundations Certificate](certificate.png)
+![GRC Foundations Certificate](beginner-grc-foundations-lab-certificate.png)
 
 ## Platform
 
